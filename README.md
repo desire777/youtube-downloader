@@ -13,6 +13,3 @@ https://www.ffmpeg.org
 - Clique duas vezes em "PATH"
 - Clique em "Novo"
 - Cole o caminho do bin do ffmpeg
-
-Download do script em formato executável:
-https://drive.google.com/file/d/1w3SKnZCuigGG_OzwJHBQKQX__eoOasbk/view?usp=drive_link
